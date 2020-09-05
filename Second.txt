@@ -1,1 +1,2 @@
 Hello world
+Changedby freind in second file
