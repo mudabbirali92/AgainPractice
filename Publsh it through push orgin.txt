@@ -1,0 +1,2 @@
+to push local repo to remote repo with name of your remote repo along with the branch just writ:
+"git push origin master"
